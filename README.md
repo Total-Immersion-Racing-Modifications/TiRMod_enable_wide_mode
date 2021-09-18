@@ -4,13 +4,13 @@ This mod hook function, which return screen wide status. If you use, for example
 
 Before:
 
-![1](.\images\1.png)
+![1](https://github.com/Total-Immersion-Racing-Modifications/TiRMod_enable_wide_mode/raw/master/images/1.png)
 
-![2](.\images\2.png)
+![2](https://github.com/Total-Immersion-Racing-Modifications/TiRMod_enable_wide_mode/raw/master/images/2.png)
 
 After:
 
-![3](.\images\3.png)
+![3](https://github.com/Total-Immersion-Racing-Modifications/TiRMod_enable_wide_mode/raw/master/images/3.png)
 
-![4](.\images\4.png)
+![4](https://github.com/Total-Immersion-Racing-Modifications/TiRMod_enable_wide_mode/raw/master/images/4.png)
 
